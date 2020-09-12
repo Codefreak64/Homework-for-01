@@ -1,0 +1,2 @@
+-Changed non custom colors from hex values to preset colors (#FFFFFF -> White)
+-Images resized (200px -> 150px)
